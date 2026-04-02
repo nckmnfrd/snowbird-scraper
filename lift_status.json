@@ -1,65 +1,65 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-02T14:45:40.377819+00:00",
+  "updated_at_utc": "2026-04-02T15:00:42.331417+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Baby Thunder",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Baby Thunder Conveyor",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Baldy",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Chickadee",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Chickadee Conveyor",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Gad 2",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Gadzoom",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Little Cloud",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Mid-Gad",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Mineral Basin",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Peruvian",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Wilbere",
-      "status": "Expected"
+      "status": "On Hold"
     }
   ],
   "trails": []
