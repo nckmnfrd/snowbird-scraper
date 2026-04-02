@@ -1,21 +1,21 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-02T15:30:39.705736+00:00",
+  "updated_at_utc": "2026-04-02T15:45:36.559963+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Baby Thunder",
-      "status": "On Hold"
+      "status": "Closed"
     },
     {
       "name": "Baby Thunder Conveyor",
-      "status": "On Hold"
+      "status": "Closed"
     },
     {
       "name": "Baldy",
@@ -31,19 +31,19 @@
     },
     {
       "name": "Gad 2",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Gadzoom",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Little Cloud",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Mid-Gad",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Mineral Basin",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Peruvian",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Peruvian Tunnel",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Wilbere",
-      "status": "On Hold"
+      "status": "Open"
     }
   ],
   "trails": []
