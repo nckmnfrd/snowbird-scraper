@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-03T15:15:32.369783+00:00",
+  "updated_at_utc": "2026-04-03T15:30:39.097513+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -19,7 +19,7 @@
     },
     {
       "name": "Baldy",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Chickadee",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Mineral Basin",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Peruvian",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Wilbere",
