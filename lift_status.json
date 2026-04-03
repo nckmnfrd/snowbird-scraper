@@ -1,21 +1,21 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-03T21:45:34.589608+00:00",
+  "updated_at_utc": "2026-04-03T21:48:03.786974+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Baby Thunder",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Baby Thunder Conveyor",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Baldy",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Little Cloud",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Mid-Gad",
