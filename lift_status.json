@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-04T22:30:38.594150+00:00",
+  "updated_at_utc": "2026-04-04T22:45:35.776484+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -59,7 +59,7 @@
     },
     {
       "name": "Wilbere",
-      "status": "Open"
+      "status": "Expected"
     }
   ],
   "trails": []
