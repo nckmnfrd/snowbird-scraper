@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-08T22:00:45.060866+00:00",
+  "updated_at_utc": "2026-04-08T22:15:36.811122+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -31,11 +31,11 @@
     },
     {
       "name": "Gad 2",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Gadzoom",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Little Cloud",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Mid-Gad",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Mineral Basin",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Peruvian",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Peruvian Tunnel",
