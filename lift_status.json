@@ -7,11 +7,11 @@
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Baby Thunder",
-      "status": "Closed"
+      "status": "Open"
     },
     {
       "name": "Baby Thunder Conveyor",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Baldy",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Chickadee",
@@ -31,19 +31,19 @@
     },
     {
       "name": "Gad 2",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Gadzoom",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Little Cloud",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Mid-Gad",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Mineral Basin",
@@ -51,15 +51,15 @@
     },
     {
       "name": "Peruvian",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Wilbere",
-      "status": "Open"
+      "status": "Closed"
     }
   ],
   "trails": []
