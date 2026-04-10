@@ -11,7 +11,7 @@
     },
     {
       "name": "Baby Thunder",
-      "status": "Closed"
+      "status": "Open"
     },
     {
       "name": "Baby Thunder Conveyor",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Baldy",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Chickadee",
@@ -31,35 +31,35 @@
     },
     {
       "name": "Gad 2",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Gadzoom",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Little Cloud",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Mid-Gad",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Mineral Basin",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Peruvian",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Wilbere",
-      "status": "Open"
+      "status": "Closed"
     }
   ],
   "trails": []
