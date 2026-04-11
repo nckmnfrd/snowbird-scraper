@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-11T22:20:37.432115+00:00",
+  "updated_at_utc": "2026-04-11T22:30:38.315536+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -35,7 +35,7 @@
     },
     {
       "name": "Gadzoom",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Little Cloud",
