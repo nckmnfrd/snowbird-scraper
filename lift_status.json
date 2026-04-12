@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-12T19:50:33.413329+00:00",
+  "updated_at_utc": "2026-04-12T20:00:39.315934+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -19,7 +19,7 @@
     },
     {
       "name": "Baldy",
-      "status": "Open"
+      "status": "On Hold"
     },
     {
       "name": "Chickadee",
