@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-19T21:50:33.064644+00:00",
+  "updated_at_utc": "2026-04-19T21:58:21.637778+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -19,7 +19,7 @@
     },
     {
       "name": "Baldy",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Chickadee",
@@ -31,11 +31,11 @@
     },
     {
       "name": "Gad 2",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Gadzoom",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Little Cloud",
@@ -51,11 +51,11 @@
     },
     {
       "name": "Peruvian",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Wilbere",
