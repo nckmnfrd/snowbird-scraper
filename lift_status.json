@@ -1,13 +1,13 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-04-21T13:50:31.334578+00:00",
+  "updated_at_utc": "2026-04-21T14:00:39.675526+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Baby Thunder",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Little Cloud",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Mid-Gad",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Mineral Basin",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Peruvian",
