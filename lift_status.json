@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-05-03T18:50:37.115433+00:00",
+  "updated_at_utc": "2026-05-03T19:00:36.548111+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -47,7 +47,7 @@
     },
     {
       "name": "Mineral Basin",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Peruvian",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Wilbere",
