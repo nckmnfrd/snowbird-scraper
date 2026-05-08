@@ -1,29 +1,29 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-05-08T22:40:43.611210+00:00",
+  "updated_at_utc": "2026-05-08T22:50:35.282215+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Open"
+      "status": "Expected"
     },
     {
       "name": "Little Cloud",
-      "status": "Closed"
+      "status": "Expected"
     },
     {
       "name": "Mineral Basin",
-      "status": "Closed"
+      "status": "Expected"
     },
     {
       "name": "Peruvian",
-      "status": "Closed"
+      "status": "Expected"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Closed"
+      "status": "Expected"
     },
     {
       "name": "Chickadee",
