@@ -1,13 +1,13 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-05-13T17:10:40.863480+00:00",
+  "updated_at_utc": "2026-05-13T17:20:42.744386+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Open"
+      "status": "On Hold"
     },
     {
       "name": "Little Cloud",
