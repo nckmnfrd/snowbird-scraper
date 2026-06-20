@@ -1,20 +1,12 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-06-20T13:20:37.155598+00:00",
+  "updated_at_utc": "2026-06-20T13:30:38.724676+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Closed"
-    },
-    {
-      "name": "Little Cloud",
-      "status": "Closed"
-    },
-    {
-      "name": "Mineral Basin",
       "status": "Closed"
     },
     {
@@ -27,6 +19,14 @@
     },
     {
       "name": "Chickadee",
+      "status": "Closed"
+    },
+    {
+      "name": "Little Cloud",
+      "status": "Closed"
+    },
+    {
+      "name": "Mineral Basin",
       "status": "Closed"
     },
     {
