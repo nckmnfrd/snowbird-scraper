@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-07-13T17:31:03.426009+00:00",
+  "updated_at_utc": "2026-07-13T17:41:36.355327+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -11,11 +11,11 @@
     },
     {
       "name": "Peruvian",
-      "status": "Closed"
+      "status": "Expected"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Closed"
+      "status": "Expected"
     },
     {
       "name": "Chickadee",
