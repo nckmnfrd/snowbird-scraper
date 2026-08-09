@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-08-09T17:40:42.801243+00:00",
+  "updated_at_utc": "2026-08-09T17:50:42.928732+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -11,7 +11,7 @@
     },
     {
       "name": "Peruvian",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Peruvian Tunnel",
