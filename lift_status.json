@@ -1,21 +1,21 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-08-21T23:00:45.584866+00:00",
+  "updated_at_utc": "2026-08-21T23:10:37.978134+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "On Hold"
+      "status": "Open"
     },
     {
       "name": "Peruvian",
-      "status": "On Hold"
+      "status": "Closed"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Open"
+      "status": "Closed"
     },
     {
       "name": "Chickadee",
