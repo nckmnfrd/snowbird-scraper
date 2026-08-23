@@ -1,13 +1,13 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-08-23T17:00:49.334744+00:00",
+  "updated_at_utc": "2026-08-23T17:10:38.659299+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Peruvian",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Chickadee",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Little Cloud",
