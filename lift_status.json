@@ -1,13 +1,13 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-09-01T01:20:37.471477+00:00",
+  "updated_at_utc": "2026-09-01T01:40:39.963896+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "On Hold"
+      "status": "Closed"
     },
     {
       "name": "Peruvian",
