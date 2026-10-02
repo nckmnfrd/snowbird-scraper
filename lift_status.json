@@ -1,13 +1,13 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-10-02T17:00:48.857109+00:00",
+  "updated_at_utc": "2026-10-02T17:10:41.303664+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Baby Thunder",
