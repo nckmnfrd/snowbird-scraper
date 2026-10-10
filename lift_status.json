@@ -1,13 +1,13 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-10-10T17:00:44.337028+00:00",
+  "updated_at_utc": "2026-10-10T17:10:35.466320+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
   "lifts": [
     {
       "name": "Aerial Tram",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Baby Thunder",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Chickadee",
-      "status": "Expected"
+      "status": "On Hold"
     },
     {
       "name": "Chickadee Conveyor",
