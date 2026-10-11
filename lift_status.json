@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-10-11T20:10:33.245670+00:00",
+  "updated_at_utc": "2026-10-11T20:20:42.749041+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -23,7 +23,7 @@
     },
     {
       "name": "Chickadee",
-      "status": "On Hold"
+      "status": "Closed"
     },
     {
       "name": "Chickadee Conveyor",
