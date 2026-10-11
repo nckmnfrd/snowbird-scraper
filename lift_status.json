@@ -1,6 +1,6 @@
 {
   "source": "https://www.snowbird.com/the-mountain/mountain-report/lift-trail-report/",
-  "updated_at_utc": "2026-10-11T18:00:44.848685+00:00",
+  "updated_at_utc": "2026-10-11T18:10:34.906988+00:00",
   "lift_count": 14,
   "trail_count": 0,
   "total_count": 14,
@@ -51,11 +51,11 @@
     },
     {
       "name": "Peruvian",
-      "status": "Expected"
+      "status": "Closed"
     },
     {
       "name": "Peruvian Tunnel",
-      "status": "Expected"
+      "status": "Open"
     },
     {
       "name": "Wilbere",
